@@ -3,7 +3,7 @@
 The goal of this workshop is to illustrate Object Oriented Programming Principles
 through the implementation of shape classes and methods, leveraging inheritance and abstract classes
 
-It also illustrate the usage of testing through pytest
+It also introduces the organisation of a python project into modules and packages, and illustrates the usage of test driven developement through pytest
 
 #### TODO : ####
 
