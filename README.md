@@ -8,6 +8,7 @@ It also introduces the organisation of a python project into modules and package
 #### TODO : ####
 
 - 1. Extend the model add shape classes of your own
-- 2. Make use of the rendering capabilities and the GUI Rendering class to tie it up to the shapes
+- 2. Make use of the rendering capabilities and the GUI Rendering class to tie it up to the shapes <br>
+     and be able to draw the shapes upon the call of the render method of each shape.
 - 3. Extend the testing thoroughly to all the shapes
 
