@@ -16,10 +16,11 @@ It also introduces the organisation of a python project into modules and package
           def test_rect()
           def test_circle()
           ```
-          They should include validation or areas and perimeters for each
-          Implement the needed shape classes (Circle is yet missing)
-          implement the tests
-          run the tests with pytest (failure)
-          implement the calculation methods in the targeted classes
-          run the tests with pytest (success)
+          They should include validation or areas and perimeters for each<br>
+          
+          - Implement the needed shape classes (Circle is yet missing)<br>
+          - implement the tests<br>
+          - run the tests with pytest (failure)<br>
+          - implement the calculation methods in the targeted classes<br>
+          - run the tests with pytest (success)<br>
 
